@@ -8,10 +8,9 @@
   },
   "engines": {
     "python": "3.9.5"
+    "node": "14.17.5"
   },
-  "dependencies": {
-    "pytelegrambotapi": "4.0.1"
-  },
+  
 
   "author": "UB",
   "license": "ISC",
