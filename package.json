@@ -1,0 +1,21 @@
+{
+  "name": "pyscripts",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "bot.py"
+  },
+  "engines": {
+    "python": "3.9.5",
+    "node": "14.17.5"
+  },
+
+
+  "author": "UB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utoben/Bots/issues"
+  },
+  "homepage": "https://github.com/Utoben/Bots#readme"
+}
